@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+keras_tuner/
+adjusted_model.h5
+initial_model.h5
